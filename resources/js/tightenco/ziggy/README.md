@@ -595,7 +595,7 @@ To get started contributing to Ziggy, check out [the contribution guide](CONTRIB
 - [Jacob Baker-Kretzmar](https://twitter.com/bakerkretzmar)
 - [All contributors](https://github.com/tighten/ziggy/contributors)
 
-Thanks to [Caleb Porzio](http://twitter.com/calebporzio), [Adam Wathan](http://twitter.com/adamwathan), and [Jeffrey Way](http://twitter.com/jeffrey_way) for help solidifying the idea.
+Thanks to [Caleb Porzio](https://twitter.com/calebporzio), [Adam Wathan](https://twitter.com/adamwathan), and [Jeffrey Way](https://twitter.com/jeffrey_way) for help solidifying the idea.
 
 ## Security
 
